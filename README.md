@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Cars and Discord
 
+---
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" />
 
@@ -18,9 +19,9 @@ Here are some ideas to get you started:
 
 ### ⚙️ &nbsp;GitHub Stats
 
-![Vihaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=VihaanSaini&show_icons=true&theme=vision-friendly-dark) 
+![Vihaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=VihaanSaini&show_icons=true&theme=tokyonight) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VihaanSaini&langs_count=20&theme=vision-friendly-dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VihaanSaini&langs_count=20&theme=tokyonight&layout=compact)
 
 ---
 
