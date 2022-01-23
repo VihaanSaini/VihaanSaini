@@ -19,6 +19,15 @@ Here are some ideas to get you started:
 
 ---
 
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=VihaanSaini&label=Views&color=blue&style=plastic)
+
+
+Join my discord https://discord.gg/RquDVTfDwu
+
+[![TEAM Badge](https://img.shields.io/badge/TEAM-TALKATIVE%20-17a6ec?style=for-the-badge)](https://github.com/VihaanSaini)
+
+---
+
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" />
 
 ---
