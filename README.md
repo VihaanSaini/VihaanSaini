@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 https://github.com/anuraghazra/github-readme-stats
 
 
-![Vihaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=VihaanSaini&show_icons=true&theme=gruvbox)
+![Vihaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=VihaanSaini&show_icons=true&theme=radical)
