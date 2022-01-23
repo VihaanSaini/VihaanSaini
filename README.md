@@ -18,3 +18,19 @@ Here are some ideas to get you started:
 ![Vihaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=VihaanSaini&show_icons=true&theme=vision-friendly-dark) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VihaanSaini&langs_count=20&theme=vision-friendly-dark&layout=compact)
+
+---
+
+### ⚙️ My Resources & Tools:
+
+- OS: Windows 10 & Mac
+- Laptop: Macbook Pro
+- Browser: Chrome and Safari
+- Code Editor: VSCode -
+- Stay Updated: [Discord](https://discord.gg/PCypEXv5Wa), and [Email](mailto:Vihaansaini00@gmail.com)
+
+---
+
+<h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
+
+---
