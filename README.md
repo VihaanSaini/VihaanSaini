@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**VihaanSaini/VihaanSaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I am Vihaan S.
 
 Here are some ideas to get you started:
 
@@ -10,7 +7,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: on Discord or via email
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love Cars and Discord
+
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/youtube.svg" />
