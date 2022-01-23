@@ -1,4 +1,5 @@
-### Hi there 👋 I am Vihaan S.
+<img align="right" height="60" width="60" alt="" src="https://cdn.discordapp.com/attachments/756590322921767002/810784341286060062/2314.gif" />
+### Hi there 👋 I am Vihaan S. 
 
 Here are some ideas to get you started:
 
@@ -15,7 +16,6 @@ Here are some ideas to get you started:
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-0e76a8?style=flat-square&logo=Youtbe&logoColor=white)](https://www.youtube.com/channel/UCGieKr5OZNYJkX-ApseKSuA)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://vihaansaini.github.io/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/VihaanSaini)
-
 
 ---
 
