@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 ### ⚙️ My Resources & Tools:
 
-- OS: Windows 10 & Mac
-- Laptop: Macbook Pro
+- OS: Monterey & Windows 10
+- Laptop: Macbook M1 Pro
 - Browser: Chrome and Safari
-- Code Editor: VSCode -
+- Code Editor: VSCode - [Autocode](https://autocode.com/dashboard/)
 - Stay Updated: [Discord](https://discord.gg/PCypEXv5Wa), and [Email](mailto:Vihaansaini00@gmail.com)
 
 ---
