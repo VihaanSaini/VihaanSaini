@@ -19,4 +19,4 @@ https://github.com/anuraghazra/github-readme-stats
 
 ![Vihaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=VihaanSaini&show_icons=true&theme=vision-friendly-dark) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VihaanSaini&langs_count=20&theme=vision-friendly-dark&layout=compact)
