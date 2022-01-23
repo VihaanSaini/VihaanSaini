@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" />
+
+https://github.com/anuraghazra/github-readme-stats
+
+![Vihaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=VihaanSaini&show_icons=true)
