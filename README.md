@@ -35,8 +35,12 @@ Join my discord https://discord.gg/RquDVTfDwu
 
 ### ⚙️ &nbsp;GitHub Stats
 
-![Vihaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=VihaanSaini&show_icons=true&theme=tokyonight) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VihaanSaini&langs_count=20&theme=tokyonight&layout=compact)
+<p align="left">
+<a href="https://github.com/VihaanSaini">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VihaanSaini&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VihaanSaini&layout=compact&langs_count=8&theme=react"/>
+</a>
+</p>
 
 ---
 
