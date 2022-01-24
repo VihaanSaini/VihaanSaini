@@ -36,7 +36,6 @@ Join my discord https://discord.gg/RquDVTfDwu
 ### ⚙️ &nbsp;GitHub Stats
 
 ![Vihaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=VihaanSaini&show_icons=true&theme=tokyonight) 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VihaanSaini&langs_count=20&theme=tokyonight&layout=compact)
 
 ---
