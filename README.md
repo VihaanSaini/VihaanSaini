@@ -37,8 +37,8 @@ Join my discord https://discord.gg/RquDVTfDwu
 
 <p align="left">
 <a href="https://github.com/VihaanSaini">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VihaanSaini&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VihaanSaini&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VihaanSaini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VihaanSaini&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
 
