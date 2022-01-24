@@ -29,7 +29,12 @@ Join my discord https://discord.gg/RquDVTfDwu
 
 ---
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" />
+### Languages and Tools:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![Markdown](https://img.shields.io/badge/-markdown-333333?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ---
 
