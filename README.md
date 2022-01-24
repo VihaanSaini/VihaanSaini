@@ -4,12 +4,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my website and discord bots
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: on Discord or via email
+- 📫 How to reach me: on [Discord](https://discord.gg/PCypEXv5Wa), and [Email](mailto:Vihaansaini00@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Cars and Discord
 
@@ -55,7 +55,6 @@ Join my discord https://discord.gg/RquDVTfDwu
 - Laptop: Macbook M1 Pro
 - Browser: Chrome and Safari
 - Code Editor: VSCode - [Autocode](https://autocode.com/dashboard/)
-- Stay Updated: [Discord](https://discord.gg/PCypEXv5Wa), and [Email](mailto:Vihaansaini00@gmail.com)
 
 ---
 
