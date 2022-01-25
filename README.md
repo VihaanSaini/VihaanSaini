@@ -1,6 +1,9 @@
 ### Hi there 👋 I am [Vihaan](https://github.com/VihaanSaini)
 <img align="right" height="60" width="60" alt="" src="https://cdn.discordapp.com/attachments/870832759034245126/934971178790043709/Wolf_test.png" />
 
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=VihaanSaini&label=Views&color=blue&style=plastic)
+
+[![TEAM Badge](https://img.shields.io/badge/TEAM-TALKATIVE%20-17a6ec?style=for-the-badge)](https://github.com/VihaanSaini) Join my discord https://discord.gg/RquDVTfDwu
 
 Here are some ideas to get you started:
 
@@ -17,15 +20,6 @@ Here are some ideas to get you started:
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-0e76a8?style=flat-square&logo=Youtbe&logoColor=white)](https://www.youtube.com/channel/UCGieKr5OZNYJkX-ApseKSuA)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://vihaansaini.github.io/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/VihaanSaini)
-
----
-
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=VihaanSaini&label=Views&color=blue&style=plastic)
-
-
-Join my discord https://discord.gg/RquDVTfDwu
-
-[![TEAM Badge](https://img.shields.io/badge/TEAM-TALKATIVE%20-17a6ec?style=for-the-badge)](https://github.com/VihaanSaini)
 
 ---
 
