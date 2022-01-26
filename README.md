@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=javascript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![Markdown](https://img.shields.io/badge/-markdown-333333?style=flat&logo=markdown)&nbsp;
