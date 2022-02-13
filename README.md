@@ -3,7 +3,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=VihaanSaini&label=Views&color=blue&style=plastic)
 
-[![TEAM Badge](https://img.shields.io/badge/TEAM-TALKATIVE%20-17a6ec?style=for-the-badge)](https://github.com/VihaanSaini) Join my discord https://discord.gg/RquDVTfDwu
+[![TEAM Badge](https://img.shields.io/badge/Talkative-Development%20-17a6ec?style=for-the-badge)](https://github.com/VihaanSaini)
 
 Here are some ideas to get you started:
 
