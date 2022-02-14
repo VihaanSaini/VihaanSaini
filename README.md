@@ -37,7 +37,7 @@ exports.Vihaan = legend;
 ### Some Highlights:
 
 - 📌 &nbsp; [Discord AutoRole](https://github.com/VihaanSaini/Discord-Autorole-Bot)
-- 
+
 - 💻 &nbsp; [This Github Template](https://github.com/VihaanSaini/VihaanSaini)
 
 ### Languages and Tools:
