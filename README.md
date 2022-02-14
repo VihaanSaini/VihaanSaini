@@ -54,6 +54,8 @@ exports.Vihaan = legend;
 ![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
+---
+
 ### ⚙️ &nbsp;GitHub Stats
 
 <p align="center">
@@ -77,5 +79,3 @@ exports.Vihaan = legend;
 ---
 
 <h3 align=center>Show some ❤️ by starring some of the repositories or dropping a follow!</h3>
-
----
