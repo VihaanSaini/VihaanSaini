@@ -53,7 +53,6 @@ exports.Vihaan = legend;
 ![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Stats
 
