@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Vihaan!](https://vihaansaini.github.io/)
 
-<img align="right" height="60" width="60" alt="" src="https://cdn.discordapp.com/attachments/870832759034245126/942647856072900618/VS.png" />
+<img align="right" height="60" width="60" alt="" src="https://cdn.discordapp.com/attachments/839703371853987850/942988992847159347/06A1F00E-68E2-4CD0-8633-5A68BB811159.png" />
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/PCypEXv5Wa)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCGieKr5OZNYJkX-ApseKSuA)
