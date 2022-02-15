@@ -16,7 +16,7 @@ async function legend() {
 
   let doing = ['Sleeping', 'Eating', 'Coding', 'Homework'];
   let langs = ['JavaScript', 'NodeJS', 'HTML5/CSS', 'Discord', 'Markdown'];
-  let tools = ['Brave Browser', 'Mac', 'Windows', 'Discord', 'GitHub'];
+  let tools = ['Chrome Browser', 'Mac', 'Windows', 'Discord', 'GitHub'];
 
   let practice = await Vihaan.randomize(doing, langs, tools);
 
