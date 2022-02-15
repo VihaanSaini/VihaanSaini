@@ -11,7 +11,7 @@
 
 ```js
 async function legend() {
-  const Vihaan = require('200iq.js');
+  const Vihaan = require('2000iq.js');
   const chalk = require('chalk');
 
   let doing = ['Sleeping', 'Eating', 'Coding', 'Homework'];
