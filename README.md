@@ -15,8 +15,8 @@ async function legend() {
   const chalk = require('chalk');
 
   let doing = ['Sleeping', 'Eating', 'Coding', 'Homework'];
-  let langs = ['JavaScript', 'NodeJS', 'ExpressJS', 'HTML5/CSS', 'Java', 'MySQL', 'Python', 'Markdown'];
-  let tools = ['Brave Browser', 'Windows', 'Linux', 'Discord', 'GitHub'];
+  let langs = ['JavaScript', 'NodeJS', 'HTML5/CSS', 'Discord', 'Markdown'];
+  let tools = ['Brave Browser', 'Mac', 'Windows', 'Discord', 'GitHub'];
 
   let practice = await Vihaan.randomize(doing, langs, tools);
 
@@ -51,7 +51,6 @@ exports.Vihaan = legend;
 ![](https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=mac&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 ---
