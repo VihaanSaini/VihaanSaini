@@ -14,13 +14,13 @@ async function legend() {
   const Vihaan = require('2000iq.js');
   const chalk = require('chalk');
 
-  let doing = ['Sleeping', 'Eating', 'Coding', 'Homework'];
-  let langs = ['JavaScript', 'NodeJS', 'HTML5/CSS', 'Discord', 'Markdown'];
-  let tools = ['Chrome Browser', 'Mac', 'Windows', 'Discord', 'GitHub'];
+  let doing = ['Sleep', 'Eat', 'Homework', 'Coding'];
+  let langs = ['Discord','JavaScript', 'NodeJS', 'HTML5/CSS', 'Markdown'];
+  let tools = ['Chrome', 'Mac', 'Windows', 'Discord', 'GitHub'];
 
   let practice = await Vihaan.randomize(doing, langs, tools);
 
-  let lifeStoryPart1 = `What's up, I'm a highschooler with a passion for Software Development, Graphic Design and Cars! `;
+  let lifeStoryPart1 = `What's up All, I'm a highschooler with a passion for Software Development,Cars and Graphic Design`;
   let lifeStoryPart2 = `I spend most of my time coding Discord bots and doing homework`;
   let lifeStoryPart3 = `Currently I am ${practice[0]}, while writing ${practice[1]} on ${practice[2]}`;
 
