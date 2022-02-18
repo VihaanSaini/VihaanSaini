@@ -38,7 +38,7 @@ exports.Vihaan = legend;
 
 - 📌 &nbsp; [Discord AutoRole Bot](https://github.com/VihaanSaini/Discord-Autorole-Bot)
 
-- 📌 &nbsp; [Discord Ticket Bot](https://github.com/VihaanSaini/Discord-Ticket-Bot)
+<!-- - 📌 &nbsp; [Discord Ticket Bot](https://github.com/VihaanSaini/Discord-Ticket-Bot) -->
 
 - 💻 &nbsp; [This Github Template](https://github.com/VihaanSaini/VihaanSaini)
 
