@@ -72,7 +72,7 @@ exports.Vihaan = legend;
 ### ⚙️ My Resources & Tools:
 
 
-- OS: Monterey & Windows 10
+- OS's: Monterey & Windows 10
 - Laptop: Macbook M1 Pro
 - Browser: Chrome and Safari
 - Code Editor: VSCode - [Autocode](https://autocode.com/dashboard/)
