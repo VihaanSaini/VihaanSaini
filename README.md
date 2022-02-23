@@ -14,7 +14,7 @@ async function legend() {
   const Vihaan = require('2000iq.js');
   const chalk = require('chalk');
 
-  let doing = ['Sleep', 'Eat', 'Homework', 'Coding'];
+  let doing = ['Sleep', 'Eat', 'Homework', 'Discord','Coding'];
   let langs = ['Discord','JavaScript', 'NodeJS', 'HTML5/CSS', 'Markdown'];
   let tools = ['Chrome', 'Mac', 'Windows', 'Discord', 'GitHub'];
 
