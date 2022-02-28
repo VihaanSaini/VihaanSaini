@@ -4,7 +4,7 @@
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/PCypEXv5Wa)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCGieKr5OZNYJkX-ApseKSuA)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](ttps://vihaansaini.github.io/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://vihaansaini.github.io/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/VihaanSaini)
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=VihaanSaini&label=Views&color=blue&style=plastic) 
@@ -38,7 +38,7 @@ exports.Vihaan = legend;
 
 - 📌 &nbsp; [Discord AutoRole Bot](https://github.com/VihaanSaini/Discord-Autorole-Bot)
 
-- 💻 &nbsp; [This Github Template](https://github.com/VihaanSaini/VihaanSaini) , [Orignal](https://github.com/Itz-Hyperz/Itz-Hyperz) By Itz-Hyperz
+- 💻 &nbsp; [This Github Template](https://github.com/VihaanSaini/VihaanSaini) , [Orignal](https://github.com/Itz-Hyperz/Itz-Hyperz) By [Itz-Hyperz](https://github.com/Itz-Hyperz)
 
 ### Languages and Tools:
 
