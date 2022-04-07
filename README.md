@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Vihaan!](https://vihaansaini.github.io/)
+## Hey, I'm [Vihaan!](https://vihaansaini.github.io/) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 <img align="right" height="60" width="60" alt="" src="https://cdn.discordapp.com/attachments/839703371853987850/942988992847159347/06A1F00E-68E2-4CD0-8633-5A68BB811159.png" />
 
