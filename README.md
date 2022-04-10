@@ -20,7 +20,7 @@ async function legend() {
 
   let practice = await Vihaan.randomize(doing, langs, tools);
 
-  let lifeStoryPart1 = `What's up All, I'm a highschooler with a passion for Software Development,Cars and Graphic Design`;
+  let lifeStoryPart1 = `Hey All, I'm a highschooler with a passion for Software Development,Cars and Graphic Design`;
   let lifeStoryPart2 = `I spend most of my time coding Discord bots and doing homework`;
   let lifeStoryPart3 = `Currently I am ${practice[0]}, while writing ${practice[1]} on ${practice[2]}`;
 
