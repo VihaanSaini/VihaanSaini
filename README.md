@@ -1,10 +1,10 @@
-## Hey, I'm [Vihaan!](https://talkative.studio/) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hey, I'm [Vihaan!](https://vihaansaini.github.io/) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 <img align="right" height="60" width="60" alt="" src="https://cdn.discordapp.com/attachments/839703371853987850/942988992847159347/06A1F00E-68E2-4CD0-8633-5A68BB811159.png" />
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/PCypEXv5Wa)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCGieKr5OZNYJkX-ApseKSuA)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://talkative.studio/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://vihaansaini.github.io/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/VihaanSaini)
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=VihaanSaini&label=Views&color=blue&style=plastic) 
@@ -29,7 +29,9 @@ async function legend() {
 exports.Vihaan = legend;
 ```
 
-[![TALKTIVE DEVELOPMENT Badge](https://img.shields.io/badge/TEAM-TALKTIVE%20DEVELOPMENT-17a6ec?style=for-the-badge)](https://discord.gg/PCypEXv5Wa) <img align="left" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
+[![TALKTIVE DEVELOPMENT Badge](https://img.shields.io/badge/TEAM-TALKTIVE%20DEVELOPMENT-17a6ec?style=for-the-badge)](https://discord.gg/PCypEXv5Wa)
+
+<img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
 
 
 ### Some Highlights:
