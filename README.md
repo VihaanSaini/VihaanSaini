@@ -4,7 +4,7 @@
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/PCypEXv5Wa)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCGieKr5OZNYJkX-ApseKSuA)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]([https://vihaansaini.github.io/](https://talkative.studio/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://talkative.studio/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/VihaanSaini)
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=VihaanSaini&label=Views&color=blue&style=plastic) 
